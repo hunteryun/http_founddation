@@ -1,0 +1,5 @@
+name: Http Founddation
+type: module
+description: Convert PSR request to Http Founddation.
+core: 1.x
+package: Hunter

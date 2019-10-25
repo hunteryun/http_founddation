@@ -1,0 +1,5 @@
+{
+    "require": {
+      "symfony/psr-http-message-bridge": "^1.2"
+    }
+}

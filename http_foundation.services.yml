@@ -1,0 +1,3 @@
+providers:
+  http_foundation.http_foundation_service:
+    class: Hunter\http_foundation\ServiceProvider\HttpFoundationServiceProvider
